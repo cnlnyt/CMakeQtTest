@@ -2,5 +2,6 @@
   "qtConfigure.qtKitDir": "D:\\Qt\\Qt5.14.2\\5.14.2\\mingw73_64\\",
   "qttools.useExternalBrowser": true,
   "qtConfigure.mingwPath": "D:\\Qt\\mingw64\\",
-  "qtConfigure.qtDir": "D:\\Qt\\Qt5.14.2\\5.14.2\\"
+  "qtConfigure.qtDir": "D:\\Qt\\Qt5.14.2\\5.14.2\\",
+  "cmake.options.statusBarVisibility": "visible"
 }
